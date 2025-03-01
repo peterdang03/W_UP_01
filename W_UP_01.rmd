@@ -73,3 +73,4 @@ The probablility of getting this calculation is 0.000009421 in high school terms
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+First of all, what we did is copied the plot command from the helper file and then changed the action of the command from plot to boxplot, including the agreements to match our data, and then explained about the boxplot. Then we did the same thing for the numerical descriptive results. And finally, we ran a t-test using the command from the helper file, and followed the same process, then we changed the p-value from scientific notation to a decimal value, as we did in high school. 
